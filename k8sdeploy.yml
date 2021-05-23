@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nagarajum121/rollingupdate:v7
+        image: sreevarshav/rollingupdate:v5
         ports:
         - containerPort: 80
 
